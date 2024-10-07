@@ -1,0 +1,10 @@
+matplotlib
+pandas
+numpy
+seaborn
+scikit-learn
+sqlalchemy
+rnanorm
+rpy2
+tensorflow
+scikeras
