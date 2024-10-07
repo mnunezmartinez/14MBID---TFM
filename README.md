@@ -1,6 +1,13 @@
 # 14MBID---TFM
 
-Descripción breve del proyecto. Explica qué hace el proyecto, cuál es su propósito y por qué es interesante o útil.
+Este proyecto tiene como objetivo la detección de cáncer mediante la aplicación de modelos de clasificación sobre datos de miARNs obtenidos de biopsias líquidas. En la primera fase, se llevó a cabo un análisis exploratorio de datos para garantizar la calidad y el estado de los datos antes de la selección de características. Se revisaron los tipos de datos, se realizó un resumen estadístico, se inspeccionaron valores faltantes y atípicos, y se analizaron los diferentes patrones formados por los datos. Los histogramas y gráficos de densidad mostraron una distribución sesgada; sin embargo, se observó una mejora en la asimetría tras el preprocesamiento y la normalización.
+
+A continuación, se aplicó una selección de características que resultó en la identificación de 145 miARNs relevantes. La evaluación de estos miARNs mostró un buen rendimiento en métricas clave, como la AUC-ROC y el F1-Score, con una destacada consistencia en la precisión y la sensibilidad. Posteriormente, se optimizaron cinco modelos de clasificación: SVM, KNN, XGBoost, Random Forest y MLP. Los resultados indicaron que XGBoost fue el modelo más eficaz, alcanzando una sensibilidad del 98,99 % y un F1-Score de 0,9159, lo que lo hace especialmente adecuado para la detección de cáncer en este contexto clínico.
+
+Por último, se realizó un análisis de la importancia de los miARNs seleccionados, destacando aquellos que resultaron ser más influyentes en la clasificación. Los hallazgos sugieren que los miARNs hsa-miR-185-5p, hsa-miR-378g, hsa-let-7b-5p y hsa-miR-148a-3p son de especial relevancia. Este trabajo resalta el papel de los miARNs como biomarcadores en la detección temprana del cáncer, lo que abre la puerta a futuras investigaciones y aplicaciones clínicas en la oncología.
+
+Palabras clave: miARNs, detección de cáncer, modelos de clasificación, biomarcadores, selección de características.
+
 
 
 ## Instalación
@@ -33,7 +40,8 @@ La estructura del proyecto es la siguiente:
 │   ├── TFM_code_GPU    # Código que debe ejecutarse en entorno con GPU
 ├── results/            # Resultados y modelos generados
 │   ├── models/         # Modelos entrenados
-│   └── tables/         # Tablas generadas
+│   └── characteristic/ # Tablas con la importancia de los miARNs
+│   └── statistics/     # Tablas con las estadísticas de los miARNs
 ├── normalize_script.R  # Script para realizar el filtrado y la normalización TMM
 ├── README.md           # Este archivo
 ├── requirements.txt    # Lista de dependencias del proyecto
