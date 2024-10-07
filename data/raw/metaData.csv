@@ -1,0 +1,1607 @@
+SRP	Experiment	Sample	Instrument	Sex	Fluid	Extraction	Library	Healthy	Cancer	Exosome	Desc
+SRP008339	SRX098325	SAMN00723072	Illumina Genome Analyzer II	female	breast milk	TRIzol	Illumina	True	False	True	Healthy women (30 +--0.9 years old, primiparity) when the infant were aged at 60 days
+SRP008339	SRX098326	SAMN00723073	Illumina Genome Analyzer II	female	breast milk	TRIzol	Illumina	True	False	True	Healthy women (30 +--0.9 years old, primiparity) when the infant were aged at 60 days
+SRP008339	SRX098327	SAMN00723074	Illumina Genome Analyzer II	female	breast milk	TRIzol	Illumina	True	False	True	Healthy women (30 +--0.9 years old, primiparity) when the infant were aged at 60 days
+SRP008339	SRX098328	SAMN00723075	Illumina Genome Analyzer II	female	breast milk	TRIzol	Illumina	True	False	True	Healthy women (30 +--0.9 years old, primiparity) when the infant were aged at 60 days
+SRP018255	SRX262209	SAMN00009845	Illumina HiSeq 2000	NA	NA	miRNeasy	NA	NA	False	False	NA
+SRP018255	SRX262207	SAMN01906694	Illumina HiSeq 2000	female	serum	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262208	SAMN01906695	Illumina HiSeq 2000	female	serum	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262185	SAMN01906672	Illumina HiSeq 2000	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262187	SAMN01906674	Illumina HiSeq 2000	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262188	SAMN01906675	Illumina HiSeq 2000	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262195	SAMN01906682	Illumina HiSeq 2000	male	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262177	SAMN01906664	Illumina HiSeq 2000	female	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262178	SAMN01906665	Illumina HiSeq 2000	female	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262179	SAMN01906666	Illumina HiSeq 2000	female	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262180	SAMN01906667	Illumina HiSeq 2000	female	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262186	SAMN01906673	Illumina HiSeq 2000	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262189	SAMN01906676	Illumina HiSeq 2000	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262190	SAMN01906677	Illumina HiSeq 2000	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262192	SAMN01906679	Illumina HiSeq 2000	male	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262193	SAMN01906680	Illumina HiSeq 2000	male	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262194	SAMN01906681	Illumina HiSeq 2000	male	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262210	SAMN00009845	Illumina HiSeq 2000	NA	NA	miRNeasy	NA	NA	False	False	NA
+SRP018255	SRX262174	SAMN01906661	Illumina Genome Analyzer II	female	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262175	SAMN01906662	Illumina Genome Analyzer II	female	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262181	SAMN01906668	Illumina Genome Analyzer II	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262182	SAMN01906669	Illumina Genome Analyzer II	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262183	SAMN01906670	Illumina Genome Analyzer II	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262184	SAMN01906671	Illumina Genome Analyzer II	NA	plasma	miRNeasy	NA	True	False	False	newborn
+SRP018255	SRX262191	SAMN01906678	Illumina Genome Analyzer II	male	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262204	SAMN01906691	Illumina HiSeq 2000	female	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262205	SAMN01906692	Illumina Genome Analyzer II	female	plasma	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262206	SAMN01906693	Illumina HiSeq 2000	female	serum	miRNeasy	NA	True	False	False	adult
+SRP018255	SRX262211	SAMN00009845	Illumina HiSeq 2000	NA	NA	miRNeasy	NA	NA	False	False	NA
+SRP020486	SRX258926	SAMN01997249	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEXTflex	True	False	True	NA
+SRP020486	SRX258927	SAMN01997250	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEXTflex	True	False	True	NA
+SRP020486	SRX258928	SAMN01997251	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP020486	SRX258929	SAMN01997252	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP020486	SRX258930	SAMN01997253	Illumina HiSeq 2000	NA	plasma	miRNeasy	Illumina	True	False	True	NA
+SRP020486	SRX258931	SAMN01997254	Illumina HiSeq 2000	NA	plasma	miRNeasy	Illumina	True	False	True	NA
+SRP020486	SRX258932	SAMN01997255	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEXTflex	True	False	True	NA
+SRP020486	SRX258933	SAMN01997256	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEXTflex	True	False	True	NA
+SRP020486	SRX258934	SAMN01997257	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP020486	SRX258935	SAMN01997258	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP020486	SRX258936	SAMN01997259	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEXTflex	True	False	True	NA
+SRP020486	SRX258937	SAMN01997260	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEXTflex	True	False	True	NA
+SRP020486	SRX258938	SAMN01997261	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP020486	SRX258939	SAMN01997262	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP027589	SRX326601	SAMN02260856	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326602	SAMN02260841	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326603	SAMN02260826	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326604	SAMN02260863	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326605	SAMN02260840	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326606	SAMN02260827	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326607	SAMN02260861	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326608	SAMN02260844	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326609	SAMN02260829	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326610	SAMN02260857	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326611	SAMN02260845	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326612	SAMN02260831	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326613	SAMN02260854	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326614	SAMN02260848	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326615	SAMN02260830	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326616	SAMN02260859	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326617	SAMN02260849	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326618	SAMN02260832	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326619	SAMN02260855	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326620	SAMN02260846	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326621	SAMN02260865	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326598	SAMN02260860	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326599	SAMN02260852	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326600	SAMN02260828	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326622	SAMN02260843	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326623	SAMN02260834	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326624	SAMN02260864	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326625	SAMN02260847	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326626	SAMN02260836	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326627	SAMN02260867	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326628	SAMN02260833	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326629	SAMN02260842	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326630	SAMN02260835	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326631	SAMN02260862	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326632	SAMN02260850	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326633	SAMN02260839	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326634	SAMN02260858	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326635	SAMN02260851	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326636	SAMN02260837	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326637	SAMN02260866	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326638	SAMN02260853	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP027589	SRX326639	SAMN02260838	Illumina HiSeq 2500	female	serum	TRIzol	Illumina	False	True	False	NA
+SRP029994	SRX352359	SAMN02354131	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	False	False	False	chronic fatigue syndrome
+SRP029994	SRX362352	SAMN02354132	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	False	False	False	chronic fatigue syndrome
+SRP029994	SRX362353	SAMN02354133	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	False	False	False	chronic fatigue syndrome
+SRP029994	SRX362354	SAMN02354134	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	False	False	False	chronic fatigue syndrome
+SRP029994	SRX362355	SAMN02354135	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	False	False	False	chronic fatigue syndrome
+SRP029994	SRX362356	SAMN02354136	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	False	False	False	chronic fatigue syndrome
+SRP029994	SRX362357	SAMN02354137	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	True	False	False	non-fatigued
+SRP029994	SRX362358	SAMN02354138	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	True	False	False	non-fatigued
+SRP029994	SRX362359	SAMN02354139	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	True	False	False	non-fatigued
+SRP029994	SRX362360	SAMN02354140	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	True	False	False	non-fatigued
+SRP029994	SRX362361	SAMN02354141	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	True	False	False	non-fatigued
+SRP029994	SRX362362	SAMN02354142	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	True	False	False	non-fatigued
+SRP029994	SRX349101	SAMN02354131	Illumina HiSeq 2000	female	plasma	miRNeasy	Illumina	False	False	False	chronic fatigue syndrome
+SRP033505	SRX387062	SAMN02435738	Illumina MiSeq	NA	plasma	miRNeasy	Illumina	True	False	False	NA
+SRP033505	SRX387063	SAMN02435739	Illumina MiSeq	NA	plasma	miRNeasy	Illumina	True	False	False	NA
+SRP033505	SRX387064	SAMN02435737	Illumina MiSeq	NA	plasma	miRNeasy	Illumina	True	False	False	NA
+SRP034590	SRX395535	SAMN02463974	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395536	SAMN02463979	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395537	SAMN02463968	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395538	SAMN02463976	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395539	SAMN02463970	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395540	SAMN02463972	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395541	SAMN02463984	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395542	SAMN02463966	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395543	SAMN02463975	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395544	SAMN02463971	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395545	SAMN02463973	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395546	SAMN02463982	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395547	SAMN02463977	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP034590	SRX395548	SAMN02463980	Illumina HiSeq 2000	NA	plasma	miRNeasy	NEBNext	True	False	True	NA
+SRP043122	SRX590693	SAMN02850877	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590694	SAMN02850879	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590695	SAMN02850876	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590696	SAMN02850889	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590697	SAMN02850884	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590698	SAMN02850880	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590699	SAMN02850890	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590700	SAMN02850878	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590701	SAMN02850883	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590702	SAMN02850888	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590703	SAMN02850881	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590704	SAMN02850885	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590705	SAMN02850896	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590706	SAMN02850882	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590707	SAMN02850886	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590708	SAMN02850895	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590709	SAMN02850887	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590710	SAMN02850891	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590711	SAMN02850897	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590712	SAMN02850892	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590713	SAMN02850893	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590714	SAMN02850898	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP043122	SRX590715	SAMN02850894	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	NA
+SRP048890	SRX732315	SAMN03106990	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	healthy controls
+SRP048890	SRX732316	SAMN03106991	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	CHB patients presenting persistently normal alanine aminotransferase with no significant histological features (NSPNALT)
+SRP048890	SRX732317	SAMN03106992	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	CHB patients presenting persistently normal alanine aminotransferase with significant histological features (SPNALT)
+SRP061240	SRX1099306	SAMN03863417	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099307	SAMN03863418	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099308	SAMN03863419	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099309	SAMN03863420	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099310	SAMN03863421	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099311	SAMN03863422	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099312	SAMN03863423	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099313	SAMN03863424	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099314	SAMN03863425	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099315	SAMN03863426	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099316	SAMN03863427	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099317	SAMN03863428	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099318	SAMN03863429	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099319	SAMN03863430	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099320	SAMN03863431	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099321	SAMN03863432	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099322	SAMN03863433	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099323	SAMN03863434	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099324	SAMN03863435	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099325	SAMN03863436	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099326	SAMN03863437	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099327	SAMN03863438	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099328	SAMN03863439	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099329	SAMN03863440	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099330	SAMN03863441	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099331	SAMN03863442	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099332	SAMN03863443	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099333	SAMN03863444	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099334	SAMN03863445	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099335	SAMN03863446	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099336	SAMN03863447	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099337	SAMN03863448	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099338	SAMN03863449	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099339	SAMN03863450	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099340	SAMN03863451	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099341	SAMN03863452	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099342	SAMN03863453	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099343	SAMN03863454	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099344	SAMN03863455	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099345	SAMN03863456	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099346	SAMN03863457	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099347	SAMN03863458	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099348	SAMN03863459	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099349	SAMN03863460	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099350	SAMN03863461	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099351	SAMN03863462	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099352	SAMN03863463	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099353	SAMN03863464	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099354	SAMN03863465	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099355	SAMN03863466	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099356	SAMN03863467	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099357	SAMN03863468	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099358	SAMN03863469	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099359	SAMN03863470	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099360	SAMN03863471	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099361	SAMN03863472	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099362	SAMN03863473	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099363	SAMN03863474	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099364	SAMN03863475	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099365	SAMN03863476	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099366	SAMN03863477	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099367	SAMN03863478	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099368	SAMN03863479	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099369	SAMN03863480	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099370	SAMN03863481	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099371	SAMN03863482	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099372	SAMN03863483	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099373	SAMN03863484	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099374	SAMN03863485	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099375	SAMN03863486	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099376	SAMN03863487	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099377	SAMN03863488	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099378	SAMN03863489	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099379	SAMN03863490	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099380	SAMN03863491	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099381	SAMN03863492	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099382	SAMN03863493	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099383	SAMN03863494	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099384	SAMN03863495	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099385	SAMN03863496	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099386	SAMN03863497	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099387	SAMN03863498	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099388	SAMN03863499	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099389	SAMN03863500	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099390	SAMN03863501	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099391	SAMN03863502	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099392	SAMN03863503	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099393	SAMN03863509	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099394	SAMN03863510	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Pancreatic Cancer
+SRP061240	SRX1099395	SAMN03863511	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099396	SAMN03863504	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099397	SAMN03863505	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099398	SAMN03863506	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099399	SAMN03863507	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099400	SAMN03863508	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099401	SAMN03863512	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099402	SAMN03863513	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099403	SAMN03863514	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099404	SAMN03863515	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099405	SAMN03863516	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099406	SAMN03863517	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099407	SAMN03863518	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099408	SAMN03863519	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099409	SAMN03863520	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099410	SAMN03863521	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099411	SAMN03863522	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099412	SAMN03863523	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099413	SAMN03863524	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099414	SAMN03863525	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099415	SAMN03863526	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099416	SAMN03863527	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099417	SAMN03863528	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099418	SAMN03863529	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Pancreatic Cancer
+SRP061240	SRX1099419	SAMN03863530	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099420	SAMN03863531	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099421	SAMN03863532	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099422	SAMN03863533	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099423	SAMN03863534	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099424	SAMN03863535	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099425	SAMN03863536	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099426	SAMN03863387	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099427	SAMN03863388	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099428	SAMN03863389	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099429	SAMN03863390	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099430	SAMN03863391	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099431	SAMN03863392	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099432	SAMN03863393	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099433	SAMN03863394	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099434	SAMN03863395	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099435	SAMN03863396	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099436	SAMN03863397	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099437	SAMN03863398	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099438	SAMN03863399	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099439	SAMN03863400	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099440	SAMN03863401	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099441	SAMN03863402	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099442	SAMN03863403	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099443	SAMN03863404	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Pancreatic Cancer
+SRP061240	SRX1099444	SAMN03863405	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099445	SAMN03863406	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099446	SAMN03863407	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099447	SAMN03863408	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099448	SAMN03863409	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099449	SAMN03863410	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099450	SAMN03863411	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099451	SAMN03863412	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099452	SAMN03863413	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099453	SAMN03863414	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099454	SAMN03863415	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099455	SAMN03863416	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099456	SAMN03863549	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099457	SAMN03863550	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099458	SAMN03863551	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099459	SAMN03863552	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099460	SAMN03863553	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099461	SAMN03863554	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099462	SAMN03863555	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099463	SAMN03863556	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099464	SAMN03863557	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099465	SAMN03863558	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099466	SAMN03863559	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099467	SAMN03863560	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099468	SAMN03863561	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Pancreatic Cancer
+SRP061240	SRX1099469	SAMN03863562	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099470	SAMN03863563	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099471	SAMN03863564	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099472	SAMN03863565	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099473	SAMN03863566	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099474	SAMN03863567	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099475	SAMN03863568	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099476	SAMN03863569	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099477	SAMN03863570	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099478	SAMN03863571	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099479	SAMN03863572	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099480	SAMN03863573	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099481	SAMN03863577	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099482	SAMN03863578	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099483	SAMN03863537	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099484	SAMN03863538	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099485	SAMN03863539	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099486	SAMN03863574	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099487	SAMN03863575	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099488	SAMN03863576	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099489	SAMN03863540	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099490	SAMN03863541	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099491	SAMN03863542	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Colorectal Cancer
+SRP061240	SRX1099492	SAMN03863543	Illumina Genome Analyzer	female	plasma	miRNeasy	NEBNext	True	False	True	Healthy Control
+SRP061240	SRX1099493	SAMN03863544	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Pancreatic Cancer
+SRP061240	SRX1099494	SAMN03863545	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Pancreatic Cancer
+SRP061240	SRX1099495	SAMN03863546	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099496	SAMN03863547	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP061240	SRX1099497	SAMN03863548	Illumina Genome Analyzer	male	plasma	miRNeasy	NEBNext	False	True	True	Prostate Cancer
+SRP062587	SRX1158746	SAMN04000111	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158747	SAMN04000112	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158748	SAMN04000113	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158749	SAMN04000114	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158750	SAMN04000115	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158751	SAMN04000116	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158752	SAMN04000117	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158753	SAMN04000118	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158754	SAMN04000119	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158755	SAMN04000120	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158756	SAMN04000121	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158757	SAMN04000122	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158758	SAMN04000123	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158759	SAMN04000124	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158760	SAMN04000125	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158761	SAMN04000126	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158762	SAMN04000127	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158763	SAMN04000128	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158764	SAMN04000129	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158765	SAMN04000130	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158766	SAMN04000131	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158767	SAMN04000132	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158768	SAMN04000133	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158769	SAMN04000134	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158770	SAMN04000135	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158771	SAMN04000136	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158772	SAMN04000137	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158773	SAMN04000138	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158774	SAMN04000110	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158775	SAMN04000139	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158776	SAMN04000140	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158777	SAMN04000141	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158778	SAMN04000142	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158779	SAMN04000143	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158780	SAMN04000144	Illumina Genome Analyzer IIx	male	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158781	SAMN04000145	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158782	SAMN04000146	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158783	SAMN04000147	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158784	SAMN04000148	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158785	SAMN04000149	Illumina Genome Analyzer IIx	female	urine cells	NA	NA	True	False	False	NA
+SRP062587	SRX1158786	SAMN04000150	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158787	SAMN04000151	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158788	SAMN04000152	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158789	SAMN04000153	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158790	SAMN04000154	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158791	SAMN04000155	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158792	SAMN04000156	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158793	SAMN04000157	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158794	SAMN04000158	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158795	SAMN04000159	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158796	SAMN04000160	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158797	SAMN04000161	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158798	SAMN04000162	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158799	SAMN04000163	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158800	SAMN04000164	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158801	SAMN04000165	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158802	SAMN04000166	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158803	SAMN04000167	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158804	SAMN04000168	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158805	SAMN04000169	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158806	SAMN04000170	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158807	SAMN04000171	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158808	SAMN04000172	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158809	SAMN04000173	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158810	SAMN04000174	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158811	SAMN04000175	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158812	SAMN04000176	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158813	SAMN04000177	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158814	SAMN04000178	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158815	SAMN04000181	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158816	SAMN04000179	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158817	SAMN04000180	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158818	SAMN04000182	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158819	SAMN04000183	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158820	SAMN04000184	Illumina Genome Analyzer IIx	male	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158821	SAMN04000185	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158822	SAMN04000186	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158824	SAMN04000188	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062587	SRX1158823	SAMN04000187	Illumina Genome Analyzer IIx	female	urine	NA	NA	True	False	True	NA
+SRP062974	SRX1169919	SAMN04017979	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	False	False	Pooled data for testing
+SRP062974	SRX1169920	SAMN04017980	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169921	SAMN04017981	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169922	SAMN04017982	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169923	SAMN04017983	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169924	SAMN04017984	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	False	False	Testing data
+SRP062974	SRX1169925	SAMN04017985	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	False	False	Testing data
+SRP062974	SRX1169926	SAMN04017986	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	False	False	Testing data
+SRP062974	SRX1169927	SAMN04017987	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	False	False	Testing data
+SRP062974	SRX1169929	SAMN04017988	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169930	SAMN04017989	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169932	SAMN04017990	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169933	SAMN04017991	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169935	SAMN04017992	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169936	SAMN04017993	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169937	SAMN04017994	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169938	SAMN04017995	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169939	SAMN04017996	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169940	SAMN04017997	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169941	SAMN04017998	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169942	SAMN04017999	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169943	SAMN04018000	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169944	SAMN04018001	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169945	SAMN04018002	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169946	SAMN04018003	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	False	True	False	Breast cancer
+SRP062974	SRX1169947	SAMN04018004	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169948	SAMN04018005	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169949	SAMN04018006	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169950	SAMN04018007	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169951	SAMN04017971	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169952	SAMN04017972	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169953	SAMN04017973	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169954	SAMN04017974	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169955	SAMN04017975	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169956	SAMN04017976	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	pre-menopausal healthy
+SRP062974	SRX1169957	SAMN04017977	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	post-menopausal healthy
+SRP062974	SRX1169958	SAMN04017978	Illumina HiSeq 2000	female	whole blood	PAXgene	Illumina	True	False	False	post-menopausal healthy
+SRP064104	SRX1277947	SAMN04103644	Illumina HiSeq 2500	male	plasma	QiaAmp	Illumina	True	False	False	Age: 51
+SRP064104	SRX1277946	SAMN04103643	Illumina HiSeq 2500	male	plasma	QiaAmp	Illumina	True	False	False	Age: 49
+SRP064104	SRX1277945	SAMN04103642	Illumina HiSeq 2500	male	plasma	QiaAmp	Illumina	True	False	False	Age: 36
+SRP064104	SRX1277944	SAMN04103641	Illumina HiSeq 2500	male	plasma	QiaAmp	Illumina	True	False	False	Age: 35
+SRP064104	SRX1277943	SAMN04103640	Illumina HiSeq 2500	male	plasma	QiaAmp	Illumina	True	False	False	Age: 20
+SRP064104	SRX1277942	SAMN04103639	Illumina HiSeq 2500	male	plasma	QiaAmp	Illumina	True	False	False	Age: 19
+SRP064104	SRX1277941	SAMN04103630	Illumina HiSeq 2500	female	plasma	QiaAmp	Illumina	True	False	False	Age: 20
+SRP064104	SRX1277940	SAMN04103629	Illumina HiSeq 2500	female	plasma	QiaAmp	Illumina	True	False	False	Age: 20
+SRP064104	SRX1277957	SAMN04103638	Illumina HiSeq 2500	male	plasma	QiaAmp	Illumina	True	False	False	Age: 19
+SRP064104	SRX1277956	SAMN04103637	Illumina HiSeq 2500	female	plasma	QiaAmp	Illumina	True	False	False	Age: 61
+SRP064104	SRX1277955	SAMN04103636	Illumina HiSeq 2500	female	plasma	QiaAmp	Illumina	True	False	False	Age: 60
+SRP064104	SRX1277954	SAMN04103635	Illumina HiSeq 2500	female	plasma	QiaAmp	Illumina	True	False	False	Age: 50
+SRP064104	SRX1277953	SAMN04103634	Illumina HiSeq 2500	female	plasma	QiaAmp	Illumina	True	False	False	Age: 45
+SRP064104	SRX1277952	SAMN04103633	Illumina HiSeq 2500	female	plasma	QiaAmp	Illumina	True	False	False	Age: 43
+SRP064104	SRX1277951	SAMN04103632	Illumina HiSeq 2500	female	plasma	QiaAmp	Illumina	True	False	False	Age: 38
+SRP064104	SRX1277950	SAMN04103631	Illumina HiSeq 2500	female	plasma	QiaAmp	Illumina	True	False	False	Age: 20
+SRP064104	SRX1277949	SAMN04103646	Illumina HiSeq 2500	male	plasma	QiaAmp	Illumina	True	False	False	Age: 67
+SRP064104	SRX1277948	SAMN04103645	Illumina HiSeq 2500	male	plasma	QiaAmp	Illumina	True	False	False	Age: 54
+SRP073296	SRX1704739	SAMN04853047	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704740	SAMN04853048	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704741	SAMN04853049	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704742	SAMN04853050	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704743	SAMN04853051	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704744	SAMN04853052	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704745	SAMN04853053	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704746	SAMN04853054	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704747	SAMN04853055	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704748	SAMN04853056	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704749	SAMN04853057	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704750	SAMN04853058	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704751	SAMN04853059	Illumina HiScanSQ	NA	serum	mirVana	Illumina	True	False	False	NA
+SRP073296	SRX1704752	SAMN04853060	Illumina HiScanSQ	NA	serum	mirVana	Illumina	True	False	False	NA
+SRP073296	SRX1704753	SAMN04853061	Illumina HiScanSQ	NA	serum	mirVana	Illumina	True	False	False	NA
+SRP073296	SRX1704754	SAMN04853062	Illumina HiScanSQ	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP073296	SRX1704755	SAMN04853063	Illumina HiScanSQ	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP073296	SRX1704756	SAMN04853064	Illumina HiScanSQ	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP073296	SRX1704757	SAMN04853065	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	True	NA
+SRP073296	SRX1704758	SAMN04853066	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	True	NA
+SRP073296	SRX1704759	SAMN04853067	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	True	NA
+SRP073296	SRX1704760	SAMN04853068	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704761	SAMN04853069	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704762	SAMN04853070	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704763	SAMN04853071	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704764	SAMN04853075	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704765	SAMN04853076	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704766	SAMN04853040	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704767	SAMN04853041	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704768	SAMN04853042	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704769	SAMN04853072	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704770	SAMN04853073	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704771	SAMN04853074	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704772	SAMN04853043	Illumina HiScanSQ	NA	serum	TRIzol	Illumina	True	False	False	NA
+SRP073296	SRX1704773	SAMN04853044	Illumina HiScanSQ	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP073296	SRX1704774	SAMN04853045	Illumina HiScanSQ	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP073296	SRX1704775	SAMN04853046	Illumina HiScanSQ	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP074077	SRX1733808	SAMN04909641	Illumina HiSeq 2000	male	plasma	NA	NEBNext	True	False	False	NA
+SRP074077	SRX1733809	SAMN04909642	Illumina HiSeq 2000	male	plasma	NA	NEBNext	True	False	False	NA
+SRP074077	SRX1733810	SAMN04909643	Illumina HiSeq 2000	male	plasma	NA	NEBNext	True	False	False	NA
+SRP074077	SRX1733811	SAMN04909644	Illumina HiSeq 2000	male	plasma	NA	NEBNext	True	False	False	NA
+SRP074077	SRX1733812	SAMN04909645	Illumina HiSeq 2000	male	plasma	NA	NEBNext	True	False	False	NA
+SRP074077	SRX1733813	SAMN04909646	Illumina HiSeq 2000	male	plasma	NA	NEBNext	True	False	False	NA
+SRP074077	SRX1733814	SAMN04909647	Illumina HiSeq 2000	male	plasma	NA	NEBNext	True	False	False	NA
+SRP074077	SRX1733815	SAMN04909648	Illumina HiSeq 2000	male	plasma	NA	NEBNext	True	False	False	NA
+SRP074077	SRX1733816	SAMN04909649	Illumina HiSeq 2000	male	plasma	NA	NEBNext	True	False	False	NA
+SRP082216	SRX2026412	SAMN05579919	NextSeq 500	female	serum	miRNeasy	NEBNext	False	True	False	Age: 71
+SRP082216	SRX2026413	SAMN05579918	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 78
+SRP082216	SRX2026414	SAMN05579943	NextSeq 500	male	serum	miRNeasy	NEBNext	True	False	False	Age: 78
+SRP082216	SRX2026415	SAMN05579942	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 85
+SRP082216	SRX2026416	SAMN05579941	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 81
+SRP082216	SRX2026417	SAMN05579940	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 71
+SRP082216	SRX2026418	SAMN05579939	NextSeq 500	female	serum	miRNeasy	NEBNext	False	True	False	Age: 83
+SRP082216	SRX2026419	SAMN05579938	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 68
+SRP082216	SRX2026420	SAMN05579937	NextSeq 500	female	serum	miRNeasy	NEBNext	False	True	False	Age: 80
+SRP082216	SRX2026421	SAMN05579936	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 78
+SRP082216	SRX2026422	SAMN05579935	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 72
+SRP082216	SRX2026423	SAMN05579934	NextSeq 500	male	serum	miRNeasy	NEBNext	True	False	False	Age: 81
+SRP082216	SRX2026424	SAMN05579933	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 51
+SRP082216	SRX2026425	SAMN05579932	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 70
+SRP082216	SRX2026426	SAMN05579931	NextSeq 500	male	serum	miRNeasy	NEBNext	True	False	False	Age: 52
+SRP082216	SRX2026427	SAMN05579930	NextSeq 500	female	serum	miRNeasy	NEBNext	False	True	False	Age: 66
+SRP082216	SRX2026428	SAMN05579929	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 71
+SRP082216	SRX2026429	SAMN05579928	NextSeq 500	female	serum	miRNeasy	NEBNext	False	True	False	Age: 71
+SRP082216	SRX2026430	SAMN05579927	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 56
+SRP082216	SRX2026431	SAMN05579926	NextSeq 500	male	serum	miRNeasy	NEBNext	True	False	False	Age: 51
+SRP082216	SRX2026432	SAMN05579925	NextSeq 500	male	serum	miRNeasy	NEBNext	True	False	False	Age: 81
+SRP082216	SRX2026433	SAMN05579924	NextSeq 500	male	serum	miRNeasy	NEBNext	True	False	False	Age: 46
+SRP082216	SRX2026434	SAMN05579923	NextSeq 500	male	serum	miRNeasy	NEBNext	False	True	False	Age: 69
+SRP082216	SRX2026435	SAMN05579922	NextSeq 500	male	serum	miRNeasy	NEBNext	True	False	False	Age: 63
+SRP082216	SRX2026436	SAMN05579921	NextSeq 500	male	serum	miRNeasy	NEBNext	True	False	False	Age: 58
+SRP082216	SRX2026437	SAMN05579920	NextSeq 500	female	serum	miRNeasy	NEBNext	False	True	False	Age: 68
+SRP082398	SRX2035082	SAMN05595534	Illumina HiSeq 2500	NA	whole blood	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035083	SAMN05595533	Illumina HiSeq 2500	NA	whole blood	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035084	SAMN05595532	Illumina HiSeq 2500	male	seminal fluid	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035085	SAMN05595531	Illumina HiSeq 2500	female	vaginal secretion	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035086	SAMN05595571	Illumina HiSeq 2500	female	menstrual secretion	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035087	SAMN05595570	Illumina HiSeq 2500	female	vaginal secretion	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035089	SAMN05595568	Illumina HiSeq 2500	NA	perspiration	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035090	SAMN05595567	Illumina HiSeq 2500	female	menstrual secretion	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035091	SAMN05595566	Illumina HiSeq 2500	NA	whole blood	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035093	SAMN05595564	Illumina HiSeq 2500	NA	saliva	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035094	SAMN05595563	Illumina HiSeq 2500	female	vaginal secretion	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035095	SAMN05595562	Illumina HiSeq 2500	NA	saliva	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035096	SAMN05595561	Illumina HiSeq 2500	female	vaginal secretion	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035097	SAMN05595560	Illumina HiSeq 2500	NA	saliva	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035098	SAMN05595559	Illumina HiSeq 2500	male	seminal fluid	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035099	SAMN05595558	Illumina HiSeq 2500	female	menstrual secretion	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035100	SAMN05595557	Illumina HiSeq 2500	male	seminal fluid	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035103	SAMN05595554	Illumina HiSeq 2500	NA	perspiration	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035104	SAMN05595553	Illumina HiSeq 2500	NA	perspiration	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035105	SAMN05595552	Illumina HiSeq 2500	NA	saliva	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035106	SAMN05595551	Illumina HiSeq 2500	male	seminal fluid	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035107	SAMN05595550	Illumina HiSeq 2500	male	seminal fluid	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035108	SAMN05595549	Illumina HiSeq 2500	NA	perspiration	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035109	SAMN05595548	Illumina HiSeq 2500	female	menstrual secretion	miRNeasy	NEBNext	True	NA	False	NA
+SRP082398	SRX2035110	SAMN05595547	Illumina HiSeq 2500	NA	urine	Norgen Biotek	NEBNext	True	NA	False	NA
+SRP082398	SRX2035111	SAMN05595546	Illumina HiSeq 2500	NA	urine	Norgen Biotek	NEBNext	True	NA	False	NA
+SRP082398	SRX2035112	SAMN05595545	Illumina HiSeq 2500	NA	urine	Norgen Biotek	NEBNext	True	NA	False	NA
+SRP082398	SRX2035113	SAMN05595544	Illumina HiSeq 2500	NA	urine	Norgen Biotek	NEBNext	True	NA	False	NA
+SRP090716	SRX2204999	SAMN05856658	Illumina HiSeq 2000	female	plasma	miRCURY	NEBNext	True	False	False	Age: 28
+SRP090716	SRX2205004	SAMN05856659	Illumina HiSeq 2000	female	plasma	miRCURY	NEBNext	True	False	False	Age: 28
+SRP090716	SRX2205005	SAMN05856668	Illumina HiSeq 2000	male	plasma	miRCURY	NEBNext	True	False	False	Age: 21
+SRP090716	SRX2205006	SAMN05856669	Illumina HiSeq 2000	male	plasma	miRCURY	NEBNext	True	False	False	Age: 34
+SRP090716	SRX2205007	SAMN05856670	Illumina HiSeq 2000	male	plasma	miRCURY	NEBNext	True	False	False	Age: 34
+SRP090716	SRX2205008	SAMN05856660	Illumina HiSeq 2000	female	plasma	miRCURY	NEBNext	True	False	False	Age: 28
+SRP090716	SRX2205009	SAMN05856661	Illumina HiSeq 2000	female	plasma	miRCURY	NEBNext	True	False	False	Age: 28
+SRP090716	SRX2205010	SAMN05856662	Illumina HiSeq 2000	female	plasma	miRCURY	NEBNext	True	False	False	Age: 28
+SRP090716	SRX2205011	SAMN05856663	Illumina HiSeq 2000	female	plasma	miRCURY	NEBNext	True	False	False	Age: 28
+SRP090716	SRX2205012	SAMN05856664	Illumina HiSeq 2000	female	plasma	miRCURY	NEBNext	True	False	False	Age: 28
+SRP090716	SRX2205013	SAMN05856665	Illumina HiSeq 2000	female	plasma	miRCURY	NEBNext	True	False	False	Age: 21
+SRP090716	SRX2205014	SAMN05856666	Illumina HiSeq 2000	male	plasma	miRCURY	NEBNext	True	False	False	Age: 21
+SRP090716	SRX2205015	SAMN05856667	Illumina HiSeq 2000	male	plasma	miRCURY	NEBNext	True	False	False	Age: 21
+SRP093728	SRX2359235	SAMN06036024	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Type 2 diabetes mellitus
+SRP093728	SRX2359236	SAMN06036071	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Type 2 diabetes mellitus
+SRP093728	SRX2359237	SAMN06036070	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Type 2 diabetes mellitus
+SRP093728	SRX2359238	SAMN06036069	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Type 2 diabetes mellitus
+SRP093728	SRX2359239	SAMN06036068	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Type 2 diabetes mellitus
+SRP093728	SRX2359240	SAMN06036067	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Type 2 diabetes mellitus
+SRP093728	SRX2359241	SAMN06036066	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Type 2 diabetes mellitus
+SRP093728	SRX2359242	SAMN06036065	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Accidental acetaminophen overdose
+SRP093728	SRX2359243	SAMN06036064	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Accidental acetaminophen overdose
+SRP093728	SRX2359244	SAMN06036063	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Accidental acetaminophen overdose
+SRP093728	SRX2359245	SAMN06036062	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Accidental acetaminophen overdose
+SRP093728	SRX2359246	SAMN06036061	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Accidental acetaminophen overdose
+SRP093728	SRX2359247	SAMN06036060	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Accidental acetaminophen overdose
+SRP093728	SRX2359248	SAMN06036059	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Accidental acetaminophen overdose
+SRP093728	SRX2359249	SAMN06036058	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Accidental acetaminophen overdose
+SRP093728	SRX2359250	SAMN06036057	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Accidental acetaminophen overdose
+SRP093728	SRX2359251	SAMN06036056	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359252	SAMN06036055	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359253	SAMN06036054	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359254	SAMN06036053	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359255	SAMN06036052	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359256	SAMN06036051	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359257	SAMN06036050	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359258	SAMN06036049	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359259	SAMN06036048	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Liver cirrhosis
+SRP093728	SRX2359260	SAMN06036047	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Liver cirrhosis
+SRP093728	SRX2359261	SAMN06036046	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Liver cirrhosis
+SRP093728	SRX2359262	SAMN06036045	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Liver cirrhosis
+SRP093728	SRX2359263	SAMN06036044	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Liver cirrhosis
+SRP093728	SRX2359264	SAMN06036043	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Liver cirrhosis
+SRP093728	SRX2359265	SAMN06036042	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Liver cirrhosis
+SRP093728	SRX2359266	SAMN06036041	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Liver cirrhosis
+SRP093728	SRX2359267	SAMN06036040	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Liver cirrhosis
+SRP093728	SRX2359268	SAMN06036039	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359269	SAMN06036038	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359270	SAMN06036037	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359271	SAMN06036036	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359272	SAMN06036035	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359273	SAMN06036034	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359274	SAMN06036033	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359275	SAMN06036032	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	Healthy control
+SRP093728	SRX2359276	SAMN06036031	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Hepatitis B infection
+SRP093728	SRX2359277	SAMN06036030	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Hepatitis B infection
+SRP093728	SRX2359278	SAMN06036029	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Hepatitis B infection
+SRP093728	SRX2359279	SAMN06036028	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Hepatitis B infection
+SRP093728	SRX2359280	SAMN06036027	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Hepatitis B infection
+SRP093728	SRX2359281	SAMN06036026	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Hepatitis B infection
+SRP093728	SRX2359282	SAMN06036025	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	False	False	False	Hepatitis B infection
+SRP094840	SRX2409148	SAMN06128110	Illumina HiSeq 2000	NA	plasma	TRIzol	NEBNext	False	True	False	esopheageal cancer
+SRP094840	SRX2409149	SAMN06128109	Illumina HiSeq 2000	NA	plasma	TRIzol	NEBNext	False	True	False	esopheageal cancer
+SRP094840	SRX2409150	SAMN06128108	Illumina HiSeq 2000	NA	plasma	TRIzol	NEBNext	False	True	False	Gastic cancer
+SRP094840	SRX2409151	SAMN06128107	Illumina HiSeq 2000	NA	plasma	TRIzol	NEBNext	False	True	False	Gastic cancer
+SRP094840	SRX2409152	SAMN06128106	Illumina HiSeq 2000	NA	plasma	TRIzol	NEBNext	False	True	False	Colorectal cancer
+SRP094840	SRX2409153	SAMN06128111	Illumina HiSeq 2000	NA	plasma	TRIzol	NEBNext	False	True	False	Colorectal cancer
+SRP096110	SRX2464367	SAMN06205285	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464368	SAMN06205284	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464369	SAMN06205283	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464370	SAMN06205282	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464371	SAMN06205281	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464372	SAMN06205280	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464373	SAMN06205279	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464374	SAMN06205278	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464375	SAMN06205277	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464376	SAMN06205276	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464377	SAMN06205275	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464378	SAMN06205274	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464379	SAMN06205273	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464380	SAMN06205272	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464381	SAMN06205271	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464382	SAMN06205270	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464383	SAMN06205269	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464384	SAMN06205268	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464385	SAMN06205267	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464386	SAMN06205259	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464387	SAMN06205258	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464388	SAMN06205257	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464389	SAMN06205292	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464390	SAMN06205291	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464391	SAMN06205290	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464392	SAMN06205289	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464393	SAMN06205288	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464394	SAMN06205287	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464395	SAMN06205286	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464396	SAMN06205256	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464397	SAMN06205296	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464398	SAMN06205295	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464399	SAMN06205294	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464400	SAMN06205293	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464401	SAMN06205266	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464402	SAMN06205265	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464403	SAMN06205264	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464404	SAMN06205263	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464405	SAMN06205262	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464406	SAMN06205261	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP096110	SRX2464407	SAMN06205260	Illumina HiSeq 2000	male	plasma	miRNeasy	NEBNext	False	True	True	Metastatic renal cell carcinoma (mRCC)
+SRP098894	SRX2539070	SAMN06299062	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539071	SAMN06299061	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539072	SAMN06299060	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Granulosa Cell
+SRP098894	SRX2539073	SAMN06299063	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539074	SAMN06299064	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Myxoid Leiomyosarcoma
+SRP098894	SRX2539075	SAMN06299071	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539076	SAMN06299070	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539077	SAMN06299099	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Mucinous
+SRP098894	SRX2539078	SAMN06299089	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539079	SAMN06299068	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539080	SAMN06299067	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539081	SAMN06299066	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539082	SAMN06299065	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Mixed Mullerian adenofibroma
+SRP098894	SRX2539083	SAMN06299069	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539084	SAMN06299073	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539085	SAMN06299072	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539086	SAMN06299075	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Epithelioid Leiomyosarcoma
+SRP098894	SRX2539087	SAMN06299074	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539088	SAMN06299087	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioid
+SRP098894	SRX2539089	SAMN06299088	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrial Adenocarcinoma
+SRP098894	SRX2539090	SAMN06299086	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539091	SAMN06299085	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539092	SAMN06299084	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539093	SAMN06299083	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539094	SAMN06299096	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539095	SAMN06299097	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioid
+SRP098894	SRX2539096	SAMN06299094	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539097	SAMN06299093	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioid
+SRP098894	SRX2539098	SAMN06299095	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioid
+SRP098894	SRX2539099	SAMN06299082	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539100	SAMN06299098	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539101	SAMN06298953	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539102	SAMN06298952	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Fibroma
+SRP098894	SRX2539103	SAMN06298951	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Mucinous
+SRP098894	SRX2539104	SAMN06298919	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioid
+SRP098894	SRX2539105	SAMN06299092	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Leiomyoma
+SRP098894	SRX2539106	SAMN06299091	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539107	SAMN06298949	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539108	SAMN06298950	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Simple cyst
+SRP098894	SRX2539109	SAMN06298948	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539110	SAMN06298947	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539111	SAMN06298946	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539112	SAMN06298945	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Fibrothecoma
+SRP098894	SRX2539113	SAMN06298944	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539114	SAMN06298943	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Mucinous
+SRP098894	SRX2539115	SAMN06298942	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539116	SAMN06298941	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539117	SAMN06298940	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539118	SAMN06298939	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Brenner tumor with mucinous cystadenofibroma
+SRP098894	SRX2539119	SAMN06298938	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539120	SAMN06298937	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Atypical leiomyoma
+SRP098894	SRX2539121	SAMN06298936	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539122	SAMN06298935	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Brenner tumor
+SRP098894	SRX2539123	SAMN06298934	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Clear cell
+SRP098894	SRX2539124	SAMN06298933	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Mucinous
+SRP098894	SRX2539125	SAMN06298931	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrial Adenocarcinoma
+SRP098894	SRX2539126	SAMN06298930	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539127	SAMN06298929	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539128	SAMN06298928	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539129	SAMN06298927	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539130	SAMN06298926	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539131	SAMN06298925	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539132	SAMN06298924	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539133	SAMN06298966	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539134	SAMN06298965	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539135	SAMN06298964	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539136	SAMN06298963	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539137	SAMN06298962	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539138	SAMN06299090	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539139	SAMN06298967	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539140	SAMN06298961	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539141	SAMN06298960	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539142	SAMN06298959	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539143	SAMN06298958	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539144	SAMN06298957	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539145	SAMN06298956	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539146	SAMN06298955	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539147	SAMN06298954	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539148	SAMN06299025	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539149	SAMN06299024	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539150	SAMN06299023	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539151	SAMN06299022	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539152	SAMN06299021	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539153	SAMN06299020	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539154	SAMN06299019	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539155	SAMN06299018	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539156	SAMN06299017	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539157	SAMN06299016	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539158	SAMN06299015	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539159	SAMN06299014	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539160	SAMN06299013	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539161	SAMN06299012	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539162	SAMN06299011	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539163	SAMN06299010	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539164	SAMN06299049	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539165	SAMN06299048	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539166	SAMN06299047	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539167	SAMN06299046	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539168	SAMN06299045	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539169	SAMN06299044	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539170	SAMN06299043	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539171	SAMN06299042	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539172	SAMN06299041	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539173	SAMN06299040	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539174	SAMN06299039	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539175	SAMN06299038	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539176	SAMN06299037	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539177	SAMN06299036	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539178	SAMN06299035	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539179	SAMN06299034	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539180	SAMN06299033	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539181	SAMN06299032	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539182	SAMN06299031	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539183	SAMN06299030	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539184	SAMN06299029	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539185	SAMN06299028	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539186	SAMN06299027	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539187	SAMN06299026	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539188	SAMN06299081	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539189	SAMN06299080	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539190	SAMN06299079	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539191	SAMN06299078	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539192	SAMN06299077	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539193	SAMN06299076	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539194	SAMN06299009	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539195	SAMN06299008	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539196	SAMN06299007	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539197	SAMN06299006	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539198	SAMN06299005	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539199	SAMN06299004	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539200	SAMN06299003	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539201	SAMN06299002	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539202	SAMN06299001	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539203	SAMN06299000	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539204	SAMN06298999	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539205	SAMN06298998	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539206	SAMN06298997	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539207	SAMN06298996	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539208	SAMN06298995	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539209	SAMN06298994	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539210	SAMN06298993	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539211	SAMN06298992	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539212	SAMN06298991	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539213	SAMN06298990	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539214	SAMN06299059	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539215	SAMN06299058	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539216	SAMN06299057	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539217	SAMN06299056	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539218	SAMN06299055	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539219	SAMN06299054	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539220	SAMN06299053	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539221	SAMN06299052	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539222	SAMN06299051	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539223	SAMN06299050	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539224	SAMN06298923	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539225	SAMN06298922	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098894	SRX2539226	SAMN06298921	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539227	SAMN06298920	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539228	SAMN06298989	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539229	SAMN06298988	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539230	SAMN06298987	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539231	SAMN06298986	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539232	SAMN06298985	NextSeq 500	female	serum	miRCURY	NEBNext	True	False	False	Control
+SRP098894	SRX2539233	SAMN06298984	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539234	SAMN06298983	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539235	SAMN06298982	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539236	SAMN06298981	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539237	SAMN06298980	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539238	SAMN06298979	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539239	SAMN06298978	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539240	SAMN06298977	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539241	SAMN06298976	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539242	SAMN06298975	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539243	SAMN06298974	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539244	SAMN06298973	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539245	SAMN06298972	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539246	SAMN06298971	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539247	SAMN06298970	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Serous
+SRP098894	SRX2539248	SAMN06298969	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endo-Clear Cell
+SRP098894	SRX2539249	SAMN06298968	NextSeq 500	female	serum	miRCURY	NEBNext	False	True	False	Endometrioma
+SRP098923	SRX2540507	SAMN06308172	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	True	False	False	Healthy adult
+SRP098923	SRX2540508	SAMN06308171	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	True	False	False	Healthy adult
+SRP098923	SRX2540509	SAMN06308181	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	True	False	False	Healthy adult
+SRP098923	SRX2540510	SAMN06308182	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	True	False	False	Healthy adult
+SRP098923	SRX2540511	SAMN06308173	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	True	False	False	Healthy adult
+SRP098923	SRX2540512	SAMN06308178	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP098923	SRX2540513	SAMN06308179	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP098923	SRX2540514	SAMN06308180	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP098923	SRX2540515	SAMN06308185	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP098923	SRX2540516	SAMN06308184	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP098923	SRX2540517	SAMN06308183	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP098923	SRX2540518	SAMN06308174	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP098923	SRX2540519	SAMN06308177	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP098923	SRX2540520	SAMN06308176	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP098923	SRX2540521	SAMN06308175	Illumina HiSeq 2000	NA	serum	miRNeasy	NEBNext	False	True	False	Multiple myeloma patient
+SRP104148	SRX2742123	SAMN06760314	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742122	SAMN06760315	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742124	SAMN06760313	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742127	SAMN06760310	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742130	SAMN06760307	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742125	SAMN06760312	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742126	SAMN06760311	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742128	SAMN06760309	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742131	SAMN06760306	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742132	SAMN06760305	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742134	SAMN06760303	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742129	SAMN06760308	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742135	SAMN06760302	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742133	SAMN06760304	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742137	SAMN06760300	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742136	SAMN06760301	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742138	SAMN06760299	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742139	SAMN06760298	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742140	SAMN06760297	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742141	SAMN06760296	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742142	SAMN06760316	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742143	SAMN06760284	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742144	SAMN06760285	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742146	SAMN06760286	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742147	SAMN06760317	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742145	SAMN06760287	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742149	SAMN06760275	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742148	SAMN06760273	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742150	SAMN06760274	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742151	SAMN06760280	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742153	SAMN06760281	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742155	SAMN06760283	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742152	SAMN06760279	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742154	SAMN06760282	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742156	SAMN06760277	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742158	SAMN06760276	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742157	SAMN06760278	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742159	SAMN06760295	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742161	SAMN06760293	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742164	SAMN06760290	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742163	SAMN06760291	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP104148	SRX2742160	SAMN06760294	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742162	SAMN06760292	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742166	SAMN06760288	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP104148	SRX2742165	SAMN06760289	Illumina HiSeq 2000	male	whole blood	PAXgene	Illumina	False	True	False	NA
+SRP110505	SRX2955993	SAMN07277887	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2955994	SAMN07277888	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2955995	SAMN07277889	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2955996	SAMN07277890	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2955997	SAMN07277891	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2955998	SAMN07277886	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2955999	SAMN07277885	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 29
+SRP110505	SRX2956000	SAMN07277881	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 29
+SRP110505	SRX2956001	SAMN07277882	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 29
+SRP110505	SRX2956002	SAMN07277883	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 29
+SRP110505	SRX2956003	SAMN07277884	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 29
+SRP110505	SRX2956004	SAMN07277880	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 29
+SRP110505	SRX2956005	SAMN07277879	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 29
+SRP110505	SRX2956006	SAMN07277878	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 58
+SRP110505	SRX2956007	SAMN07277877	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 58
+SRP110505	SRX2956008	SAMN07277876	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 58
+SRP110505	SRX2956009	SAMN07277875	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 58
+SRP110505	SRX2956010	SAMN07277874	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 58
+SRP110505	SRX2956011	SAMN07277873	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 58
+SRP110505	SRX2956012	SAMN07277872	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 58
+SRP110505	SRX2956013	SAMN07277871	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956014	SAMN07277870	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956015	SAMN07277869	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956016	SAMN07277868	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956017	SAMN07277867	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956018	SAMN07277866	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956019	SAMN07277865	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956020	SAMN07277726	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956021	SAMN07277847	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956022	SAMN07277727	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956023	SAMN07277728	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956024	SAMN07277729	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956025	SAMN07277848	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956026	SAMN07277851	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956027	SAMN07277850	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 55
+SRP110505	SRX2956028	SAMN07277849	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 55
+SRP110505	SRX2956029	SAMN07277852	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 55
+SRP110505	SRX2956030	SAMN07277700	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 55
+SRP110505	SRX2956031	SAMN07277699	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 55
+SRP110505	SRX2956032	SAMN07277698	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 55
+SRP110505	SRX2956033	SAMN07277697	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 55
+SRP110505	SRX2956034	SAMN07277853	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956035	SAMN07277854	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956036	SAMN07277703	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956037	SAMN07277702	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956038	SAMN07277701	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956039	SAMN07277696	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956040	SAMN07277695	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956041	SAMN07277694	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956042	SAMN07277693	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956043	SAMN07277692	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956044	SAMN07277691	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956045	SAMN07277690	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956046	SAMN07277689	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956047	SAMN07277688	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956048	SAMN07277687	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956049	SAMN07277686	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956050	SAMN07277685	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956051	SAMN07277684	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956052	SAMN07277683	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956053	SAMN07277682	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956054	SAMN07277681	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956055	SAMN07277680	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956056	SAMN07277679	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956057	SAMN07277678	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956058	SAMN07277677	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956059	SAMN07277676	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956060	SAMN07277675	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956061	SAMN07277674	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956062	SAMN07277725	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 50
+SRP110505	SRX2956063	SAMN07277724	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 50
+SRP110505	SRX2956064	SAMN07277723	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 50
+SRP110505	SRX2956065	SAMN07277722	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 50
+SRP110505	SRX2956066	SAMN07277721	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 50
+SRP110505	SRX2956067	SAMN07277720	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 50
+SRP110505	SRX2956068	SAMN07277719	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 50
+SRP110505	SRX2956069	SAMN07277718	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956070	SAMN07277717	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956071	SAMN07277716	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956072	SAMN07277715	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956073	SAMN07277714	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956074	SAMN07277713	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956075	SAMN07277712	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 43
+SRP110505	SRX2956076	SAMN07277711	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956077	SAMN07277710	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956078	SAMN07277709	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956079	SAMN07277708	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956080	SAMN07277707	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956081	SAMN07277706	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956082	SAMN07277864	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956083	SAMN07277863	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 49
+SRP110505	SRX2956084	SAMN07277862	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 49
+SRP110505	SRX2956085	SAMN07277861	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 49
+SRP110505	SRX2956086	SAMN07277860	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 49
+SRP110505	SRX2956087	SAMN07277858	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 49
+SRP110505	SRX2956088	SAMN07277857	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 49
+SRP110505	SRX2956089	SAMN07277856	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 49
+SRP110505	SRX2956090	SAMN07277855	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956091	SAMN07277394	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956092	SAMN07277393	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956093	SAMN07277392	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956094	SAMN07277859	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956095	SAMN07277391	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956096	SAMN07277390	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956097	SAMN07277389	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956098	SAMN07277388	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956099	SAMN07277387	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956100	SAMN07277386	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956101	SAMN07277385	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956102	SAMN07277384	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956103	SAMN07277516	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956104	SAMN07277515	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956105	SAMN07277514	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956106	SAMN07277513	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956107	SAMN07277512	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956108	SAMN07277511	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956109	SAMN07277510	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956110	SAMN07277509	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956111	SAMN07277508	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956112	SAMN07277507	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956113	SAMN07277506	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956114	SAMN07277505	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956115	SAMN07277504	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956116	SAMN07277503	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956117	SAMN07277502	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 51
+SRP110505	SRX2956118	SAMN07277501	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 25
+SRP110505	SRX2956119	SAMN07277500	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 25
+SRP110505	SRX2956120	SAMN07277499	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 25
+SRP110505	SRX2956121	SAMN07277498	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 25
+SRP110505	SRX2956122	SAMN07277527	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 25
+SRP110505	SRX2956123	SAMN07277526	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 25
+SRP110505	SRX2956124	SAMN07277525	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 25
+SRP110505	SRX2956125	SAMN07277524	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956126	SAMN07277523	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956127	SAMN07277522	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956128	SAMN07277521	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956129	SAMN07277520	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956130	SAMN07277519	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956131	SAMN07277518	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956132	SAMN07277517	Illumina HiSeq 2000	NA	blood cells	mirVana	Illumina	True	False	False	NA
+SRP110505	SRX2956133	SAMN07277632	Illumina HiSeq 2000	NA	blood cells	mirVana	Illumina	True	False	False	NA
+SRP110505	SRX2956134	SAMN07277631	Illumina HiSeq 2000	NA	blood cells	mirVana	Illumina	True	False	False	NA
+SRP110505	SRX2956135	SAMN07277630	Illumina HiSeq 2000	NA	blood cells	mirVana	Illumina	True	False	False	NA
+SRP110505	SRX2956136	SAMN07277629	Illumina HiSeq 2000	NA	blood cells	mirVana	Illumina	True	False	False	NA
+SRP110505	SRX2956137	SAMN07277628	Illumina HiSeq 2000	NA	blood cells	mirVana	Illumina	True	False	False	NA
+SRP110505	SRX2956138	SAMN07277627	Illumina HiSeq 2000	NA	blood cells	mirVana	Illumina	True	False	False	NA
+SRP110505	SRX2956139	SAMN07277626	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956140	SAMN07277625	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956141	SAMN07277624	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956142	SAMN07277623	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956143	SAMN07277622	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956144	SAMN07277621	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956145	SAMN07277620	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956146	SAMN07277619	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956147	SAMN07277618	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956148	SAMN07277617	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956149	SAMN07277616	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956150	SAMN07277615	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956151	SAMN07277614	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956152	SAMN07277643	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 48
+SRP110505	SRX2956153	SAMN07277642	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956154	SAMN07277641	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956155	SAMN07277640	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956156	SAMN07277639	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956157	SAMN07277638	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956158	SAMN07277637	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956159	SAMN07277636	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956160	SAMN07277635	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 30
+SRP110505	SRX2956161	SAMN07277634	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 30
+SRP110505	SRX2956162	SAMN07277633	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 30
+SRP110505	SRX2956163	SAMN07277789	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 30
+SRP110505	SRX2956164	SAMN07277788	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 30
+SRP110505	SRX2956165	SAMN07277787	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 30
+SRP110505	SRX2956166	SAMN07277786	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 30
+SRP110505	SRX2956167	SAMN07277785	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 56
+SRP110505	SRX2956168	SAMN07277783	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 56
+SRP110505	SRX2956169	SAMN07277782	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 56
+SRP110505	SRX2956170	SAMN07277781	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 56
+SRP110505	SRX2956171	SAMN07277780	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 56
+SRP110505	SRX2956172	SAMN07277779	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 56
+SRP110505	SRX2956173	SAMN07277778	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 56
+SRP110505	SRX2956174	SAMN07277777	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 37
+SRP110505	SRX2956175	SAMN07277776	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 37
+SRP110505	SRX2956176	SAMN07277774	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 37
+SRP110505	SRX2956177	SAMN07277773	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 37
+SRP110505	SRX2956178	SAMN07277772	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 37
+SRP110505	SRX2956179	SAMN07277771	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 37
+SRP110505	SRX2956180	SAMN07277770	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 37
+SRP110505	SRX2956181	SAMN07277769	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956182	SAMN07277840	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956183	SAMN07277839	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956184	SAMN07277846	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956185	SAMN07277845	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956186	SAMN07277844	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956187	SAMN07277843	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 46
+SRP110505	SRX2956188	SAMN07277842	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956189	SAMN07277841	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956190	SAMN07277838	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956191	SAMN07277837	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956192	SAMN07277836	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956193	SAMN07277835	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 45
+SRP110505	SRX2956194	SAMN07277834	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 57
+SRP110505	SRX2956195	SAMN07277833	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 57
+SRP110505	SRX2956196	SAMN07277832	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 57
+SRP110505	SRX2956197	SAMN07277831	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 57
+SRP110505	SRX2956198	SAMN07277830	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 57
+SRP110505	SRX2956199	SAMN07277829	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 57
+SRP110505	SRX2956200	SAMN07277828	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 57
+SRP110505	SRX2956201	SAMN07277827	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956202	SAMN07277826	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956203	SAMN07277825	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956204	SAMN07277824	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956205	SAMN07277823	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956206	SAMN07277822	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956207	SAMN07277821	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956208	SAMN07277820	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956209	SAMN07277819	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956210	SAMN07277818	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956211	SAMN07277817	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956212	SAMN07277768	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 32
+SRP110505	SRX2956213	SAMN07277767	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 26
+SRP110505	SRX2956214	SAMN07277766	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 26
+SRP110505	SRX2956215	SAMN07277765	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 26
+SRP110505	SRX2956216	SAMN07277764	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 26
+SRP110505	SRX2956217	SAMN07277428	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 26
+SRP110505	SRX2956218	SAMN07277427	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 26
+SRP110505	SRX2956219	SAMN07277425	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 26
+SRP110505	SRX2956220	SAMN07277424	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956221	SAMN07277423	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956222	SAMN07277422	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956223	SAMN07277421	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956224	SAMN07277420	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956225	SAMN07277418	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956226	SAMN07277417	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956227	SAMN07277416	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956228	SAMN07277415	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956229	SAMN07277414	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956230	SAMN07277412	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956231	SAMN07277411	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956232	SAMN07277410	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956233	SAMN07277409	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 22
+SRP110505	SRX2956234	SAMN07277408	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 34
+SRP110505	SRX2956235	SAMN07277407	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 34
+SRP110505	SRX2956236	SAMN07277405	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 34
+SRP110505	SRX2956237	SAMN07277404	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 34
+SRP110505	SRX2956238	SAMN07277403	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 34
+SRP110505	SRX2956239	SAMN07277402	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 34
+SRP110505	SRX2956240	SAMN07277401	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 34
+SRP110505	SRX2956241	SAMN07277400	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 24
+SRP110505	SRX2956242	SAMN07277399	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 24
+SRP110505	SRX2956243	SAMN07277398	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 24
+SRP110505	SRX2956244	SAMN07277397	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 24
+SRP110505	SRX2956245	SAMN07277396	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 24
+SRP110505	SRX2956246	SAMN07277395	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 24
+SRP110505	SRX2956247	SAMN07277816	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 24
+SRP110505	SRX2956248	SAMN07277815	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 28
+SRP110505	SRX2956249	SAMN07277814	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 28
+SRP110505	SRX2956250	SAMN07277813	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 28
+SRP110505	SRX2956251	SAMN07277812	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 28
+SRP110505	SRX2956252	SAMN07277811	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 28
+SRP110505	SRX2956253	SAMN07277810	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 28
+SRP110505	SRX2956254	SAMN07277809	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 28
+SRP110505	SRX2956255	SAMN07277808	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956256	SAMN07277807	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956257	SAMN07277806	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956258	SAMN07277805	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956259	SAMN07277804	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956260	SAMN07277803	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956261	SAMN07277802	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 21
+SRP110505	SRX2956262	SAMN07277801	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956263	SAMN07277800	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956264	SAMN07277799	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956265	SAMN07277798	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956266	SAMN07277797	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956267	SAMN07277796	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956268	SAMN07277795	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 63
+SRP110505	SRX2956269	SAMN07277794	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956270	SAMN07277894	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956271	SAMN07277893	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956272	SAMN07277892	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956273	SAMN07277762	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956274	SAMN07277793	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956275	SAMN07277792	Illumina HiSeq 2000	female	blood cells	mirVana	Illumina	True	False	False	Age: 39
+SRP110505	SRX2956276	SAMN07277791	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 41
+SRP110505	SRX2956277	SAMN07277790	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 41
+SRP110505	SRX2956278	SAMN07277761	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 41
+SRP110505	SRX2956279	SAMN07277760	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 41
+SRP110505	SRX2956280	SAMN07277759	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 41
+SRP110505	SRX2956281	SAMN07277758	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 41
+SRP110505	SRX2956282	SAMN07277757	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 41
+SRP110505	SRX2956283	SAMN07277756	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956284	SAMN07277755	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956285	SAMN07277754	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956286	SAMN07277753	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956287	SAMN07277751	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956288	SAMN07277750	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956289	SAMN07277749	Illumina HiSeq 2000	male	blood cells	mirVana	Illumina	True	False	False	Age: 27
+SRP110505	SRX2956290	SAMN07277748	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956291	SAMN07277747	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956292	SAMN07277746	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956293	SAMN07277745	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956294	SAMN07277744	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956295	SAMN07277743	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956296	SAMN07277741	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956297	SAMN07277740	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956298	SAMN07277739	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956299	SAMN07277738	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956300	SAMN07277737	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956301	SAMN07277735	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956302	SAMN07277734	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956303	SAMN07277733	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956304	SAMN07277732	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956305	SAMN07277731	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956306	SAMN07277730	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956307	SAMN07277673	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956308	SAMN07277672	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956309	SAMN07277671	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956310	SAMN07277670	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956311	SAMN07277669	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956312	SAMN07277668	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956313	SAMN07277667	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956314	SAMN07277666	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956315	SAMN07277665	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956316	SAMN07277664	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956317	SAMN07277663	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956318	SAMN07277662	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956319	SAMN07277661	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956320	SAMN07277660	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956321	SAMN07277659	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956322	SAMN07277658	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956323	SAMN07277657	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956324	SAMN07277656	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956325	SAMN07277655	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956326	SAMN07277654	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956327	SAMN07277653	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956328	SAMN07277652	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956329	SAMN07277651	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956330	SAMN07277650	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956331	SAMN07277649	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956332	SAMN07277648	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956333	SAMN07277554	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956334	SAMN07277647	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956335	SAMN07277646	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956336	SAMN07277645	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956337	SAMN07277644	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956338	SAMN07277557	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956339	SAMN07277556	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956340	SAMN07277555	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956341	SAMN07277553	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956342	SAMN07277552	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956343	SAMN07277551	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956344	SAMN07277550	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956345	SAMN07277549	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956346	SAMN07277548	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956347	SAMN07277547	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956348	SAMN07277546	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956349	SAMN07277545	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956350	SAMN07277544	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956351	SAMN07277543	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956352	SAMN07277542	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956353	SAMN07277541	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956354	SAMN07277540	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956355	SAMN07277539	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956356	SAMN07277538	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956357	SAMN07277536	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956358	SAMN07277535	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956359	SAMN07277534	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956360	SAMN07277533	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956361	SAMN07277532	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956362	SAMN07277531	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956363	SAMN07277530	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956364	SAMN07277537	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956365	SAMN07277529	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956366	SAMN07277528	Illumina HiSeq 2000	NA	whole blood	PAXgene	Illumina	True	False	False	NA
+SRP110505	SRX2956367	SAMN07277383	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956368	SAMN07277461	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956369	SAMN07277460	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956370	SAMN07277459	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956371	SAMN07277458	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956372	SAMN07277457	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956373	SAMN07277455	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956374	SAMN07277454	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956375	SAMN07277453	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956376	SAMN07277452	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956377	SAMN07277451	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956378	SAMN07277450	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956379	SAMN07277449	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956380	SAMN07277447	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956381	SAMN07277446	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956382	SAMN07277445	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956383	SAMN07277444	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956384	SAMN07277443	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956385	SAMN07277442	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956386	SAMN07277441	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956387	SAMN07277439	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956388	SAMN07277438	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956389	SAMN07277437	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956390	SAMN07277436	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956391	SAMN07277435	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956392	SAMN07277434	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956393	SAMN07277433	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956394	SAMN07277431	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956395	SAMN07277430	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956396	SAMN07277429	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956397	SAMN07277613	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956398	SAMN07277612	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956399	SAMN07277611	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956400	SAMN07277610	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956401	SAMN07277609	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956402	SAMN07277608	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956403	SAMN07277607	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956404	SAMN07277606	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956405	SAMN07277605	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956406	SAMN07277604	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956407	SAMN07277603	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956408	SAMN07277602	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956409	SAMN07277601	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956410	SAMN07277600	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956411	SAMN07277599	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956412	SAMN07277598	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956413	SAMN07277597	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956414	SAMN07277596	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956415	SAMN07277595	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956416	SAMN07277594	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956417	SAMN07277593	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956418	SAMN07277592	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956419	SAMN07277589	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956420	SAMN07277588	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956421	SAMN07277587	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956422	SAMN07277586	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956423	SAMN07277705	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956424	SAMN07277591	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956425	SAMN07277590	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956426	SAMN07277704	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956427	SAMN07277463	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956428	SAMN07277462	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956429	SAMN07277585	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956430	SAMN07277584	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956431	SAMN07277583	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956432	SAMN07277582	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956433	SAMN07277581	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956434	SAMN07277580	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956435	SAMN07277579	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956436	SAMN07277578	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956437	SAMN07277577	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956438	SAMN07277576	Illumina HiSeq 2000	NA	exosomes	miRNeasy	Illumina	True	False	True	NA
+SRP110505	SRX2956439	SAMN07277575	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956440	SAMN07277574	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956441	SAMN07277573	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP110505	SRX2956442	SAMN07277572	Illumina HiSeq 2000	NA	serum	miRNeasy	Illumina	True	False	False	NA
+SRP120169	SRX3292413	SAMN07795855	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 26
+SRP120169	SRX3292414	SAMN07795854	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 32
+SRP120169	SRX3292415	SAMN07795853	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 68
+SRP120169	SRX3292416	SAMN07795852	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 48
+SRP120169	SRX3292417	SAMN07795851	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 39
+SRP120169	SRX3292418	SAMN07795850	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 56
+SRP120169	SRX3292419	SAMN07795849	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 38
+SRP120169	SRX3292420	SAMN07795848	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 46
+SRP120169	SRX3292421	SAMN07795847	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 46
+SRP120169	SRX3292422	SAMN07795846	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 28
+SRP120169	SRX3292423	SAMN07795845	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 34
+SRP120169	SRX3292424	SAMN07795844	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 35
+SRP120169	SRX3292425	SAMN07795843	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 35
+SRP120169	SRX3292426	SAMN07795841	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 32
+SRP120169	SRX3292427	SAMN07795842	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 41
+SRP120169	SRX3292428	SAMN07795840	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 49
+SRP120169	SRX3292429	SAMN07795893	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 47
+SRP120169	SRX3292430	SAMN07795892	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 37
+SRP120169	SRX3292431	SAMN07795891	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 39
+SRP120169	SRX3292432	SAMN07795890	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 52
+SRP120169	SRX3292433	SAMN07795889	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 37
+SRP120169	SRX3292434	SAMN07795888	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 37
+SRP120169	SRX3292435	SAMN07795887	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 21
+SRP120169	SRX3292436	SAMN07795886	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	False	False	False	Age: 19
+SRP120169	SRX3292437	SAMN07795885	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	False	False	False	Age: 29
+SRP120169	SRX3292438	SAMN07795884	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	True	False	False	Age: 24
+SRP120169	SRX3292439	SAMN07795883	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	True	False	False	Age: 33
+SRP120169	SRX3292440	SAMN07795882	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	True	False	False	Age: 56
+SRP120169	SRX3292441	SAMN07795881	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	True	False	False	Age: 53
+SRP120169	SRX3292442	SAMN07795880	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	True	False	False	Age: 38
+SRP120169	SRX3292443	SAMN07795879	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	True	False	False	Age: 44
+SRP120169	SRX3292444	SAMN07795878	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	True	False	False	Age: 30
+SRP120169	SRX3292445	SAMN07795877	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	True	False	False	Age: 32
+SRP120169	SRX3292446	SAMN07795876	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	True	False	False	Age: 40
+SRP120169	SRX3292447	SAMN07795875	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	True	False	False	Age: 54
+SRP120169	SRX3292448	SAMN07795874	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	True	False	False	Age: 47
+SRP120169	SRX3292449	SAMN07795873	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	True	False	False	Age: 39
+SRP120169	SRX3292450	SAMN07795872	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	True	False	False	Age: 51
+SRP120169	SRX3292451	SAMN07795871	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	True	False	False	Age: 37
+SRP120169	SRX3292452	SAMN07795870	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	True	False	False	Age: 20
+SRP120169	SRX3292453	SAMN07795869	Illumina HiScanSQ	male	plasma	miRNeasy	NEBNext	True	False	False	Age: 16
+SRP120169	SRX3292454	SAMN07795868	Illumina HiScanSQ	female	plasma	miRNeasy	NEBNext	True	False	False	Age: 31
+SRP120996	SRX3313412	SAMN07822780	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP120996	SRX3313413	SAMN07822779	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313414	SAMN07822778	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP120996	SRX3313415	SAMN07822777	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313416	SAMN07822776	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313417	SAMN07822775	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313418	SAMN07822774	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP120996	SRX3313419	SAMN07822773	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313420	SAMN07822772	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	multiple sclerosis control (MS control)
+SRP120996	SRX3313421	SAMN07822771	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313422	SAMN07822770	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313423	SAMN07822769	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313424	SAMN07822768	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313425	SAMN07822767	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313426	SAMN07822766	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313427	SAMN07822765	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313428	SAMN07822764	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313429	SAMN07822763	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	multiple sclerosis control (MS control)
+SRP120996	SRX3313430	SAMN07822762	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313431	SAMN07822761	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313432	SAMN07822760	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	multiple sclerosis control (MS control)
+SRP120996	SRX3313433	SAMN07822759	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313434	SAMN07822758	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP120996	SRX3313435	SAMN07822756	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP120996	SRX3313436	SAMN07822755	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313437	SAMN07822754	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313438	SAMN07822753	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313439	SAMN07822752	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313440	SAMN07822751	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313441	SAMN07822750	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313442	SAMN07822757	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP120996	SRX3313443	SAMN07822749	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	multiple sclerosis control (MS control)
+SRP120996	SRX3313444	SAMN07822748	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313445	SAMN07822747	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP120996	SRX3313446	SAMN07822746	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313447	SAMN07822745	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313448	SAMN07822744	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	multiple sclerosis control (MS control)
+SRP120996	SRX3313449	SAMN07822743	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313450	SAMN07822742	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313451	SAMN07822741	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313452	SAMN07822740	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313453	SAMN07822739	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313454	SAMN07822738	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313455	SAMN07822737	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	False	False	False	sporadic amyotrophic lateral sclerosis (sALS)
+SRP120996	SRX3313456	SAMN07822736	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP120996	SRX3313457	SAMN07822735	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP120996	SRX3313458	SAMN07822734	Illumina HiScanSQ	NA	cerebrospinal fluid	mirVana	Illumina	True	False	False	Control
+SRP125870	SRX3432746	SAMN08113295	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432747	SAMN08113294	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432748	SAMN08113293	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432749	SAMN08113307	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432750	SAMN08113306	Illumina HiSeq 2000	female	plasma	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432751	SAMN08113305	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432752	SAMN08113304	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432753	SAMN08113303	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432754	SAMN08113302	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432755	SAMN08113301	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432756	SAMN08113300	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432757	SAMN08113299	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432758	SAMN08113298	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432759	SAMN08113297	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP125870	SRX3432760	SAMN08113296	Illumina HiSeq 2000	female	breast milk	miRNeasy	NEBNext	True	False	False	NA
+SRP136264	SRX3832881	SAMN08773921	Illumina HiSeq 4000	male	saliva	Norgen Biotek	Illumina	True	False	False	Age: 21
+SRP136264	SRX3832882	SAMN08773920	Illumina HiSeq 4000	male	saliva	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832883	SAMN08773919	Illumina HiSeq 4000	female	saliva	Norgen Biotek	Illumina	True	False	False	Age: 23
+SRP136264	SRX3832884	SAMN08773918	Illumina HiSeq 4000	female	saliva	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832885	SAMN08773925	Illumina HiSeq 4000	male	full urine	Norgen Biotek	Illumina	True	False	False	Age: 21
+SRP136264	SRX3832886	SAMN08773924	Illumina HiSeq 4000	male	full urine	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832887	SAMN08773923	Illumina HiSeq 4000	female	full urine	Norgen Biotek	Illumina	True	False	False	Age: 23
+SRP136264	SRX3832888	SAMN08773922	Illumina HiSeq 4000	female	full urine	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832889	SAMN08773927	Illumina HiSeq 4000	female	urine	Norgen Biotek	Illumina	True	False	False	Age: 23
+SRP136264	SRX3832890	SAMN08773926	Illumina HiSeq 4000	female	urine	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832891	SAMN08773928	Illumina HiSeq 4000	male	urine	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832892	SAMN08773929	Illumina HiSeq 4000	male	urine	Norgen Biotek	Illumina	True	False	False	Age: 21
+SRP136264	SRX3832893	SAMN08773914	Illumina HiSeq 4000	female	full saliva	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832894	SAMN08773915	Illumina HiSeq 4000	female	full saliva	Norgen Biotek	Illumina	True	False	False	Age: 23
+SRP136264	SRX3832895	SAMN08773912	Illumina HiSeq 4000	male	serum	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832896	SAMN08773913	Illumina HiSeq 4000	male	serum	Norgen Biotek	Illumina	True	False	False	Age: 21
+SRP136264	SRX3832897	SAMN08773910	Illumina HiSeq 4000	female	serum	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832898	SAMN08773911	Illumina HiSeq 4000	female	serum	Norgen Biotek	Illumina	True	False	False	Age: 23
+SRP136264	SRX3832899	SAMN08773908	Illumina HiSeq 4000	male	plasma	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832900	SAMN08773909	Illumina HiSeq 4000	male	plasma	Norgen Biotek	Illumina	True	False	False	Age: 21
+SRP136264	SRX3832901	SAMN08773916	Illumina HiSeq 4000	male	full saliva	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832902	SAMN08773917	Illumina HiSeq 4000	male	full saliva	Norgen Biotek	Illumina	True	False	False	Age: 21
+SRP136264	SRX3832903	SAMN08773902	Illumina HiSeq 4000	female	leukocytes	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832904	SAMN08773903	Illumina HiSeq 4000	female	leukocytes	Norgen Biotek	Illumina	True	False	False	Age: 23
+SRP136264	SRX3832905	SAMN08773904	Illumina HiSeq 4000	male	leukocytes	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832906	SAMN08773905	Illumina HiSeq 4000	male	leukocytes	Norgen Biotek	Illumina	True	False	False	Age: 21
+SRP136264	SRX3832907	SAMN08773898	Illumina HiSeq 4000	female	whole blood	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832908	SAMN08773899	Illumina HiSeq 4000	female	whole blood	Norgen Biotek	Illumina	True	False	False	Age: 23
+SRP136264	SRX3832909	SAMN08773900	Illumina HiSeq 4000	male	whole blood	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136264	SRX3832910	SAMN08773901	Illumina HiSeq 4000	male	whole blood	Norgen Biotek	Illumina	True	False	False	Age: 21
+SRP136264	SRX3832912	SAMN08773907	Illumina HiSeq 4000	female	plasma	Norgen Biotek	Illumina	True	False	False	Age: 23
+SRP136264	SRX3832911	SAMN08773906	Illumina HiSeq 4000	female	plasma	Norgen Biotek	Illumina	True	False	False	Age: 22
+SRP136488	SRX3848780	SAMN08796727	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848781	SAMN08796726	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848782	SAMN08796725	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848783	SAMN08796724	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848784	SAMN08796723	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848785	SAMN08796736	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848786	SAMN08796701	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848787	SAMN08796700	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848788	SAMN08796699	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848789	SAMN08796671	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848790	SAMN08796698	Illumina HiSeq 4000	NA	seminal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848791	SAMN08796697	Illumina HiSeq 4000	NA	seminal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848792	SAMN08796696	Illumina HiSeq 4000	NA	seminal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848793	SAMN08796695	Illumina HiSeq 4000	NA	seminal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848794	SAMN08796694	Illumina HiSeq 4000	NA	seminal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848795	SAMN08796693	Illumina HiSeq 4000	NA	seminal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848796	SAMN08796692	Illumina HiSeq 4000	NA	seminal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848797	SAMN08796691	Illumina HiSeq 4000	NA	seminal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848798	SAMN08796690	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848799	SAMN08796689	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848800	SAMN08796688	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848801	SAMN08796687	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848803	SAMN08796686	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848804	SAMN08796685	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848805	SAMN08796684	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848806	SAMN08796683	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848807	SAMN08796682	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848808	SAMN08796681	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848809	SAMN08796680	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848810	SAMN08796679	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848811	SAMN08796678	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848812	SAMN08796677	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848813	SAMN08796676	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848814	SAMN08796675	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848815	SAMN08796674	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848816	SAMN08796673	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848817	SAMN08796672	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848818	SAMN08796722	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848819	SAMN08796721	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848820	SAMN08796720	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848821	SAMN08796719	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848822	SAMN08796718	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848823	SAMN08796717	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848824	SAMN08796716	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848825	SAMN08796715	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848826	SAMN08796714	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848827	SAMN08796713	Illumina HiSeq 4000	NA	serum	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848828	SAMN08796712	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848829	SAMN08796711	Illumina HiSeq 4000	NA	urine	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848830	SAMN08796710	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848831	SAMN08796709	Illumina HiSeq 4000	NA	plasma	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848832	SAMN08796708	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848833	SAMN08796707	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848834	SAMN08796706	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848835	SAMN08796705	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848836	SAMN08796704	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848837	SAMN08796703	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848838	SAMN08796747	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848839	SAMN08796746	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848840	SAMN08796745	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848841	SAMN08796744	Illumina HiSeq 4000	NA	bronchoalveolar lavage	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848843	SAMN08796743	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848844	SAMN08796742	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848845	SAMN08796741	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848846	SAMN08796740	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848847	SAMN08796739	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848848	SAMN08796738	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848849	SAMN08796577	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848850	SAMN08796572	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848851	SAMN08796666	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848852	SAMN08796612	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848853	SAMN08796576	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848854	SAMN08796575	Illumina HiSeq 4000	NA	bile	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848855	SAMN08796573	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848856	SAMN08796610	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848857	SAMN08796609	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848858	SAMN08796608	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848859	SAMN08796606	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848860	SAMN08796605	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848861	SAMN08796603	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848862	SAMN08796601	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848863	SAMN08796599	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848864	SAMN08796597	Illumina HiSeq 4000	NA	amniotic fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848865	SAMN08796595	Illumina HiSeq 4000	NA	cerebrospinal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848866	SAMN08796593	Illumina HiSeq 4000	NA	cerebrospinal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848867	SAMN08796591	Illumina HiSeq 4000	NA	cerebrospinal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848868	SAMN08796590	Illumina HiSeq 4000	NA	cerebrospinal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848869	SAMN08796588	Illumina HiSeq 4000	NA	cerebrospinal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848870	SAMN08796586	Illumina HiSeq 4000	NA	cerebrospinal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848871	SAMN08796585	Illumina HiSeq 4000	NA	cerebrospinal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848872	SAMN08796583	Illumina HiSeq 4000	NA	cerebrospinal fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848873	SAMN08796582	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848874	SAMN08796581	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848875	SAMN08796580	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848876	SAMN08796579	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848877	SAMN08796578	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848878	SAMN08796702	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848879	SAMN08796737	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848880	SAMN08796751	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848881	SAMN08796750	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
+SRP136488	SRX3848883	SAMN08796749	Illumina HiSeq 4000	NA	ovarian follicle fluid	miRNeasy	NA	True	False	False	NA
