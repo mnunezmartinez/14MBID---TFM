@@ -1,0 +1,1 @@
+Best hyperparameters SVM: {'C': 100, 'degree': 2, 'gamma': 0.001, 'kernel': 'rbf'}
