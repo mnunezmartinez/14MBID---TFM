@@ -45,7 +45,7 @@ La estructura del proyecto es la siguiente:
 ├── normalize_script.R  # Script para realizar el filtrado y la normalización TMM
 ├── README.md           # Este archivo
 ├── requirements.txt    # Lista de dependencias del proyecto
-├── malena_nunez_martinez-14MBID_TFM.pdf    # Memoria del proyecto
+├── manunezmartinez-_TFM_thesis.pdf    # Memoria del proyecto
 ```
 
 
