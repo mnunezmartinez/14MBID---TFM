@@ -63,6 +63,6 @@ Este proyecto está licenciado bajo los términos de la [Licencia MIT](LICENSE).
 Si tienes alguna pregunta o necesitas más información, no dudes en contactarme:
 
 - **Correo electrónico:** [nunezmartinezmalena@gmail.com]
-- **LinkedIn:** [[Tu Perfil LinkedIn](https://www.linkedin.com/in/malena-nunez-martinez/)]
+- **LinkedIn:** [https://www.linkedin.com/in/malena-nunez-martinez/]
 
 ¡Gracias por tu interés en este proyecto!
